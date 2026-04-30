@@ -13,4 +13,4 @@ const eventSchema = new mongoose.Schema({
   images: [String]
 });
 
-module.exports = mongoose.model('Event', eventSchema);
+module.exports = mongoose.model('Event', eventSchema, 'events');
