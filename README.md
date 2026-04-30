@@ -31,7 +31,8 @@ node index.js
 
 ## API Endpoints
 
-Base URL: `https://your-render-url.onrender.com`
+Replace the base URL with the deployed URL if you choose to do so
+Base URL: `https://localhost:3000/`
 
 All endpoints are GET only. Responses are JSON.
 
